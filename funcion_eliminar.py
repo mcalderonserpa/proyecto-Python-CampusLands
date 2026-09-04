@@ -2,8 +2,8 @@ import json
 
 def eliminar_registro(materias):
     for materia in materias:
-        print(f'\nClase: {materia['clase']}')
-        print(f'{materia['dia']} de {materia['hora_inicio']} a {materia['hora_fin']}\n')
+        print(f"\nClase: {materia['clase']}")
+        print(f"{materia['dia']} de {materia['hora_inicio']} a {materia['hora_fin']}\n")
     materia_borrar = input('Ingrese la materia que desea borrar: ').upper()
     dias = []
     horas = []
