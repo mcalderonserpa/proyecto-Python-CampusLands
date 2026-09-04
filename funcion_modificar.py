@@ -4,8 +4,8 @@ from funcion_registro import cruce
 
 def modificar_registro(materias):
     for materia in materias:
-        print(f'\nClase: {materia['clase']}')
-        print(f'{materia['dia']} de {materia['hora_inicio']} a {materia['hora_fin']}\n')
+        print(f"\nClase: {materia['clase']}")
+        print(f"{materia['dia']} de {materia['hora_inicio']} a {materia['hora_fin']}\n")
     materia_modificar = input('Ingrese la materia que desea modificar: ').upper()
     dias = []
     horas = []
