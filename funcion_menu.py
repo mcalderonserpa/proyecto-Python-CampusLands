@@ -1,0 +1,11 @@
+def interfaz():
+    print('===============================================')
+    print('GENERADOR DE HORARIOS PARA ESTUDIANTES')
+    print('===============================================')
+    print('\n   1. Registrar una materia o actividad')
+    print('   2. Ver horario semanal')
+    print('   3. Modificar una materia o actividad')
+    print('   4. Eliminar una materia o actividad')
+    print('   5. Generar reporte del horario')
+    print('   6. Salir')
+    print('\n===============================================')

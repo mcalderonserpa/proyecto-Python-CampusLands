@@ -1,0 +1,16 @@
+[
+    {
+        "clase": "LENGUAS",
+        "dia": "jueves",
+        "hora_inicio": 10,
+        "hora_fin": 12,
+        "ubicacion": ""
+    },
+    {
+        "clase": "MATEMATICAS",
+        "dia": "lunes",
+        "hora_inicio": 14,
+        "hora_fin": 16,
+        "ubicacion": ""
+    }
+]
